@@ -1,0 +1,4 @@
+jupyter notebook
+python-dotenv
+requests
+grok
