@@ -11,5 +11,5 @@ def clean_text(text):
     return text
 
 #Test
-sample="   Hello !!!                                  How are you ??  "
+sample="   Hello !!!         How are you ??  "
 print(clean_text(sample))
