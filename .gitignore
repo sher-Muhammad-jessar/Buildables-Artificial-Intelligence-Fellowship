@@ -7,6 +7,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.mp3
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
